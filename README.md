@@ -175,4 +175,4 @@ The dashboard empowers educational stakeholders with real-time analytical insigh
 
 The EDU Dashboard combines:
 
-<img width="1024" height="574" alt="EDU Dashboard" src="https://github.com/user-attachments/assets/83221a7c-da46-4fe3-8e44-87bba43e084b" />
+[<img width="1024" height="574" alt="EDU Dashboard" src="https://github.com/user-attachments/assets/83221a7c-da46-4fe3-8e44-87bba43e084b" />](https://github.com/Aman7667/EDU-Dashboard/blob/main/EDU%20Dashboard.PNG)
